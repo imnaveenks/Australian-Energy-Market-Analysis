@@ -22,6 +22,18 @@ SQLite database and queried to uncover demand and pricing trends across 2025.
 - **6pm is the peak demand hour** across the year — the classic evening peak
 - **Prices only spike at extreme demand levels** (above ~7000 MW) — below that the market stays stable
 
+- ## Visualisations
+
+### Monthly Energy Demand and Price
+![Monthly Demand and Price](Visuals/Monthy%20energy%20demand%20%26%20price.png)
+
+### Demand by Hour
+![Demand by Hour](Visuals/Demand%20by%20hour.png)
+
+### Energy Demand vs Price
+![Energy Demand vs Price](Visuals/Energy%20demand%20by%20price.png)
+
+
 ## Tools Used
 - Python (Google Colab)
 - SQL (SQLite)
